@@ -4,7 +4,7 @@ The Serqet family of projects are designed to isolate your host and slave device
 
 ## Hardware Revision 00
 
-The board features two jumpers which have to be set to the same speed, either LS or FS, before plugging it in. It's designed to fit in the [Hammond 1551S](www.hammondmfg.com/pdf/1551S.pdf) housing.
+The board features two jumpers which have to be set to the same speed, either LS or FS, before plugging it in. It's designed to fit in the [Hammond 1551S](http://www.hammondmfg.com/pdf/1551S.pdf) housing.
 
 ![Serqet_FS_U_00_TOP](https://raw.githubusercontent.com/phyx-be/Serqet_FS_U/master/Serqet_FS_U_00/3D_VIEW_TOP.PNG)
 ![Serqet_FS_U_00_BOT](https://raw.githubusercontent.com/phyx-be/Serqet_FS_U/master/Serqet_FS_U_00/3D_VIEW_BOT.PNG)
